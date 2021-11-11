@@ -75,12 +75,13 @@ body {
 
 }
 
-h1 {
+h3 {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
 }
 
 p {
     font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
 }
 
